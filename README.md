@@ -10,7 +10,7 @@
 
 ### Smartphone
 
-<img src={![Imagem do WhatsApp de 2023-10-15 à(s) 18 38 44_b95a906b](https://github.com/alyyssonSanttos/organizador/assets/125829817/f320d9eb-4756-4589-993b-2dffb7ab861b)} alt="ERROR" style="500px"/>
+![Imagem do WhatsApp de 2023-10-15 à(s) 18 38 44_b95a906b](https://github.com/alyyssonSanttos/organizador/assets/125829817/f320d9eb-4756-4589-993b-2dffb7ab861b)
 
 uma interface utilizando React router.
 
