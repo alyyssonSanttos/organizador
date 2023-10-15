@@ -6,7 +6,9 @@
 
 ### Notebook
 
-![Captura de tela 2023-10-15 183430](https://github.com/alyyssonSanttos/organizador/assets/125829817/4e415669-72ba-4a10-b426-d1c751b963f3)
+<div align="center">
+  <img src="https://github.com/alyyssonSanttos/organizador/assets/125829817/4e415669-72ba-4a10-b426-d1c751b963f3" width="700px"/>
+</div>
 
 ### Smartphone
 
