@@ -11,33 +11,24 @@ ansiedade. As pessoas precisam de forma fácil e prática organizar tarefas, mas
 aplicações já existentes podem ser complexas demais para aprender ou então muito
 limitadas para atender suas necessidades pessoais. Portanto, a melhor solução é criar
 uma aplicação personalizada.](#about)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Utilizei: Figma, JSX, SCSS, React.Js](#features)
+- [Comecei instalando as principais tecnologias, depois fui codando.](#getting-started)
+- [Organizar as tarefas do dia a dia.](#usage)
+- [Atividade proposta pela Escola DNC.](#license)
 
-## About
+## Sobre
 
-Provide a brief introduction to your project. Explain what it does, why it exists, and who the intended audience is.
+Uma interface de organizar tarefas vc edita e apaga, logo abaixo adiciona mais tarefas.
 
-## Features
+## Recursos
 
-List the key features of your project.
-
-- Feature 1
-- Feature 2
-- Feature 3
-
-You can add more features as needed.
-
-## Getting Started
-
-Provide instructions on how to get started with your project. Include any prerequisites, installation steps, or setup instructions.
+- JSX
+- SCSS
+- React.js
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com//your-repo.git
 
 # Navigate to the project directory
 cd your-repo
