@@ -1,6 +1,9 @@
 
 # Organizador de Tarefas
 
+## Git Hub > https://github.com/alyyssonSanttos/organizador
+## Site > https://organizador-neon.vercel.app/
+
 uma interface utilizando React router.
 
 - [Organizar tarefas diárias é um desafio para muitos. Com aumento do ritmo de vida e
@@ -23,10 +26,3 @@ Uma interface de organizar tarefas vc edita e apaga, logo abaixo adiciona mais t
 - JSX
 - SCSS
 - React.js
-
-```bash
-# Clone the repository
-git clone https://github.com/alyyssonSanttos/organizador
-
-# site => https://organizador-neon.vercel.app/
-
