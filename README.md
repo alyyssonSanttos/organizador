@@ -1,5 +1,3 @@
-# React + Vite
-# site => https://organizador-neon.vercel.app/
 
 # Organizador de Tarefas
 
@@ -28,11 +26,7 @@ Uma interface de organizar tarefas vc edita e apaga, logo abaixo adiciona mais t
 
 ```bash
 # Clone the repository
-git clone https://github.com//your-repo.git
+git clone https://github.com/alyyssonSanttos/organizador
 
-# Navigate to the project directory
-cd your-repo
-
-# Install dependencies (if applicable)
-npm install
+# site => https://organizador-neon.vercel.app/
 
