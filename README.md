@@ -11,7 +11,7 @@
 ### Smartphone
 
 <div align="center">
-  <img src="(https://github.com/alyyssonSanttos/organizador/assets/125829817/f320d9eb-4756-4589-993b-2dffb7ab861b" width="500px"/>
+  <img src="https://github.com/alyyssonSanttos/organizador/assets/125829817/f320d9eb-4756-4589-993b-2dffb7ab861b" width="500px"/>
 </div>
 
 uma interface utilizando React router.
